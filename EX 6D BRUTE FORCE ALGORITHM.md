@@ -4,12 +4,12 @@
 To write a python program using brute force method of searching for the given substring in the main string.
 
 ## Algorithm
-1.Take two inputs: the main string and the substring to search for.
-2.Create a regex pattern using the substring.
-3.Search for the first match of the pattern in the main string.
-4.If a match is found.Print the starting index of the match.
-5.Continue searching for the next match, starting just after the current match.
-6.Repeat step 4 until no more matches are found. 
+1. Take two inputs: the main string and the substring to search for.
+2. Create a regex pattern using the substring.
+3. Search for the first match of the pattern in the main string.
+4. If a match is found.Print the starting index of the match.
+5. Continue searching for the next match, starting just after the current match.
+6. Repeat step 4 until no more matches are found.
 
 ## Program:
 
